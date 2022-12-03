@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184124136726",
+    "project_id": "honeymoon-app-48258",
+    "storage_bucket": "honeymoon-app-48258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184124136726:android:8bd49688ac11512e6b8437",
+        "android_client_info": {
+          "package_name": "com.example.honeymoon_delicious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184124136726-2drrbq79ltmit22l1ab5hpvdgnastptv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.honeymoon_delicious",
+            "certificate_hash": "e19f23451eab0d95cbea00cb7f120a372a99d90d"
+          }
+        },
+        {
+          "client_id": "184124136726-gjrspbv8nklsvgb5jq5ftck6q6rrmva9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuqE9cXCejEvCz05R8EYSZ9hosrc0j584"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184124136726-gjrspbv8nklsvgb5jq5ftck6q6rrmva9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
